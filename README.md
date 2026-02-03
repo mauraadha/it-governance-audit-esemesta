@@ -55,6 +55,5 @@ Based on the gap analysis, I proposed the following improvements to the CIO/Mana
 * **Framework:** ISACA Val IT 2.0.
 * **Methodology:** Quantitative Analysis (Likert Scale) & Gap Analysis.
 * **Tools:** Google Forms (Data Collection), Excel/SPSS (Data Analysis).
-* **Soft Skill:** Stakeholder Interview & Strategic Thinking.
 
 ---
